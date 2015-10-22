@@ -1,6 +1,6 @@
 {
   "name": "stripe-javascript-style",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Stripe JavaScript Linting Rules",
   "keywords": [
     "stripe",
