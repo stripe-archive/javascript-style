@@ -2,19 +2,11 @@
 
 ### Usage
 
-Add `stripe-javascript-style` to your `package.json`.
-In your `package.json`:
-```json
-...
+Add `stripe-javascript-style` to your `devDependencies`.
 
-"devDependencies": {
-  "stripe-javascript-style": "^x.x.x"
-},
-
-...
+```bash
+> npm install --save-dev stripe-javascript-style
 ```
-
-Then, run `npm install -d`.
 
 In `.jscsrc`:
 
