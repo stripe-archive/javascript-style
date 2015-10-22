@@ -1,0 +1,21 @@
+{
+  "name": "stripe-javascript-style",
+  "version": "1.0.0",
+  "description": "Stripe JavaScript Linting Rules",
+  "keywords": [
+    "stripe",
+    "javascript",
+    "linter",
+    "jscs"
+  ],
+  "main": "lib/index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/stripe/javascript-style.git"
+  },
+  "homepage": "https://github.com/stripe/javascript-style",
+  "bugs": "https://github.com/stripe/javascript-style/issues",
+  "devDependencies": {
+    "jscs": "^2.0.0"
+  }
+}
